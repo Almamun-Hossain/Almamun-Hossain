@@ -1,9 +1,9 @@
 # MD ALMAMUN
 Full-Stack Developer
 
-Email: almamunhossains@gmail.com | Tel: +8801752-573621 | [LinkedIn](https://www.linkedin.com/in/almamunhossain/) | [GitHub](https://github.com/Almamun-Hossain) | [Portfolio](https://almamun.me)
+[LinkedIn](https://www.linkedin.com/in/almamunhossain/) | [GitHub](https://github.com/Almamun-Hossain) | [Portfolio](https://almamun.me)
 
-I am a dedicated and self-learner full-stack developer specialized in MERN technology with years of experience. My motivation is to build high-quality websites, applications, and databases for brands, and I am always eager to learn and ready to adopt new technologies.
+I am a dedicated and self-learner full-stack developer specializing in MERN technology with years of experience. My motivation is to build high-quality websites, applications, and databases for brands, and I am always eager to learn and ready to adopt new technologies.
 
 ## Technical Skills
 
@@ -42,7 +42,7 @@ I am a dedicated and self-learner full-stack developer specialized in MERN techn
 *Mar 2021 – July 2023*
 
 - Contributed to the Headless CMS Project and Experiment.
-- Resolved WordPress, Drupal, Git, DNS, Cache-related problems for customers.
+- Resolved WordPress, Drupal, Git, DNS, and Cache-related problems for customers.
 - Debugged and resolved website performance issues.
 - Proficient in Next.js, WordPress, Drupal, Slack, Zendesk, Confluence, New Relic, Jira, etc.
 
